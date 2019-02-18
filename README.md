@@ -5,7 +5,7 @@ Naive Bayes is a classification technique based on bayes' theoram which assumes 
 <img src="https://www.analyticsvidhya.com/wp-content/uploads/2015/09/Bayes_rule-300x172-300x172.png" width = "500px" align="middle">
 
 ## Dataset
-Have a look at the dataset [link](https://github.com/ra=jatsharma369007/Spam_Classifier_using_Naive_Bayes/blob/master/SMSSpamCollection)  
+Have a look at the dataset [link](https://github.com/rajatsharma369007/Spam_Classifier_using_Naive_Bayes/blob/master/SMSSpamCollection)  
 Dataset contains first columns as classification label and second column is the e-mail content.
 
 ## Installation
